@@ -1,0 +1,24 @@
+{
+        status:"Decrease",
+        percentage:323,
+        icon:FaMoneyCheckAlt,
+        iconColor:"#c475fc",
+        iconBorderColor:"bg-[#f5e8ff]",
+        stat:5,
+        upDownIcon:MdOutlineArrowDropDown,
+        statIcon:"#ff807f",
+        statClass:"text-[#ff807f]", 
+        label:"Expenses"
+    },
+    {
+        status:"Earning",
+        percentage:533,
+        icon:FaHandshakeSimple,
+        iconColor:"#25e1d0",
+        iconBorderColor:"bg-[#b7f3ee]",
+        stat:33,
+        upDownIcon:MdOutlineArrowDropUp,
+        statIcon:"#37dbc5",
+        statClass:"text-[#37dbc5]", 
+        label:"Customer"
+    },
